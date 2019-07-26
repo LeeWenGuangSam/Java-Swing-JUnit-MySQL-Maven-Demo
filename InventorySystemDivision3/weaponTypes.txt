@@ -1,0 +1,6 @@
+Assault Rifle
+Light Machine Gun
+Marksman Rifle
+Rifle
+Shotgun
+Submachine Gun
