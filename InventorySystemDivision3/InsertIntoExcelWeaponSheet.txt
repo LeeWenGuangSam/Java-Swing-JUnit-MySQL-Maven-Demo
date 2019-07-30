@@ -1,2 +1,0 @@
-WeaponType, WeaponVariant, ActiveSkill, HandlingSkill, HolsteredSkill
-
