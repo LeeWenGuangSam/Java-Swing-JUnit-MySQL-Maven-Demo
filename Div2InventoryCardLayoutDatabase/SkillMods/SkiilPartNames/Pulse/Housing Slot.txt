@@ -1,0 +1,4 @@
+Atmospheric Analyzer,Effect Duration
+Exploded Blueprint,Cooldown Reduction
+Heating Mantle,Charge Speed
+Super Glue,Radius

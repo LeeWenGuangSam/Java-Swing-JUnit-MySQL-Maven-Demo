@@ -1,0 +1,17 @@
+Weapon Damage
+Assault Rifle Critical Hit Chance
+Assault Rifle Critical Hit Damage
+Critical Range
+LMG Critical Hit Chance
+LMG Critical Hit Damage
+Marksman Rifle Critical Hit Chance
+Marksman Rifle Critical Hit Damage
+Optimal Range
+Pistol Critical Hit Chance
+Pistol Critical Hit Damage
+Rifle Critical Hit Chance
+Rifle Critical hit Damage
+Shotgun Critical Hit Chance
+Shotgun Critical Hit Damage
+SMG Critical Hit Chance
+SMG Critical Hit Damage

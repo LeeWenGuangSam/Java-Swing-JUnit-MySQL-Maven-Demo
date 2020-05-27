@@ -1,0 +1,4 @@
+Adaptive Insulation Foam,Cooldown Reduction
+Cementitious Material,Holstered Regeneration
+Shape-memory Alloy,Damage
+Titanium Reinforcement,Health

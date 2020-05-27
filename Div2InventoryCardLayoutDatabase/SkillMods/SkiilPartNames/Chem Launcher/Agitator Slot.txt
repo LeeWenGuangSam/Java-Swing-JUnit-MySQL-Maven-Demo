@@ -1,0 +1,8 @@
+Carbon Black Filler,Ensnare Duration
+Cell Penetrating Peptide,Heal
+Chromatics Training,Radius
+Feed Strip,Ammo
+Imbued Metal String,Ensnare Health
+Piranha Solution,Damage
+PVA Polymer Coating,Duration
+Slip Fit Tube,Cooldown Reduction

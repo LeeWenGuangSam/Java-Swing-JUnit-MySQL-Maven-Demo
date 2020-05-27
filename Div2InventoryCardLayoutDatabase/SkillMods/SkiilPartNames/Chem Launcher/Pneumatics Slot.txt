@@ -1,0 +1,8 @@
+Disintegrating Links,Ammo
+Ecotoxicology Research,Duration
+Hydrocloric Infusion,Damage
+Liquid Nitrogen Cooling System,Cooldown Reduction
+Pharmacokinetic Enhancer,Heal
+Polypropylene Recipe,Ensnare Health
+Styrofoam Infusion,Ensnare Duration
+Ultra-Thin Cartridges,Radius

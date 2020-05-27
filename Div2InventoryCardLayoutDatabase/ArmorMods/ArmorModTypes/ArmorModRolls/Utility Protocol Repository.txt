@@ -1,0 +1,6 @@
+Skill Power
+Explosives Damage
+Grenade Damage
+Headshot Kill XP
+Increased Kill XP
+XP Weakpoint Kills

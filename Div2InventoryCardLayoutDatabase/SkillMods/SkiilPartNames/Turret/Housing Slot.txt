@@ -1,0 +1,5 @@
+Ammo Box,Extra Mortar Ammo
+Cyclone Magazine,Extra Sniper Ammo
+Organic Circuits,Duration
+Spare Parts,Cooldown Reduction
+Weather Coating,Health

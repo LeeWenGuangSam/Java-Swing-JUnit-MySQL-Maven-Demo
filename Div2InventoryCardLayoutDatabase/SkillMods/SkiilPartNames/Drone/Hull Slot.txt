@@ -1,0 +1,6 @@
+Carbon Fiber Frame,Cooldown Reduction
+Explosive Requisition,Extra Bombs
+Freedom Package,Blast Radius
+Reinforced Rotor Blades,Health
+Terminal Ballistics,Damage
+Trauma Analyzer,Armor Repair
