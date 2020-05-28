@@ -2,12 +2,6 @@ package pc.predi;
 
 public class MainApp {
 	public static void main(String[] args) {
-//		MainView view = new MainView();
-//		MainModel model = new MainModel();
-//		MainController controller = new MainController(view, model);
-//		view.getFrame().pack();
-//		view.getFrame().setVisible(true);
-
 		/**
 		 * MainView is to handle the view of the program
 		 *
@@ -22,7 +16,6 @@ public class MainApp {
 				MainView view = new MainView();
 				MainModel model = new MainModel();
 				MainController controller = new MainController(view, model);
-				//view.getFrame().pack();
 				view.getFrame().setVisible(true);
 			}
 		});
