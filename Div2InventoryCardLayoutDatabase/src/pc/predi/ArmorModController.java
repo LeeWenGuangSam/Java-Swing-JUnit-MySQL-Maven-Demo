@@ -24,7 +24,6 @@ public class ArmorModController implements ItemListener {
 		}
 		switch(itemEvent.getItem().toString()) {
 		case "Offensive": 
-			//view.getPanelCenterCardArmorMod().getBoxArmorModName().setModel(armorModModel.populateSkills(arrayToPopulate, file));
 			view.getPanelCenterCardArmorMod().getBoxArmorModName().setModel(new DefaultComboBoxModel(armorModModel
 					.populateArrayFromFile(new File("ArmorMods/ArmorModTypes/ArmorModNamesOffensive.txt"))));
 			break;
