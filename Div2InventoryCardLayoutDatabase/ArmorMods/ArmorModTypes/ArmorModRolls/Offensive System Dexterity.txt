@@ -1,5 +1,0 @@
-
-Weapon Damage
-Critical Range
-Optimal Range
-Weapon Handling

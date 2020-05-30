@@ -1,8 +1,0 @@
-Bonus Armor
-Armor/Sec Regeneration
-Armor on Kill
-Armor
-Explosive Resistance
-Health Regen
-Protection from Elites
-Total Armor

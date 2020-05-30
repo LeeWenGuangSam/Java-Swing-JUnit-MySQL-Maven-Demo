@@ -1,4 +1,0 @@
-Experimental Blend,Buff Duration
-Experimental Blend,Stim Efficiency
-Extra Payload,Damage
-Radar Signal Antennas,Duration

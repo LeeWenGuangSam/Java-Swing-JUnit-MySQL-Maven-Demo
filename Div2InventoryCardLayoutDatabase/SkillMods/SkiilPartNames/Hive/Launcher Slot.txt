@@ -1,4 +1,0 @@
-Cooling Vents,Cooldown Reduction
-Internal Storage,Charges
-Nitroglycerin Mixture,Damage
-Steel Harness,Health

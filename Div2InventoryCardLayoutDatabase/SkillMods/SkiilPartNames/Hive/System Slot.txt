@@ -1,4 +1,0 @@
-Backpack Battery,Cooldown Reduction
-Network Firewall,Duration
-Polycarbonate Housing,Health
-Swarm Control,Charges

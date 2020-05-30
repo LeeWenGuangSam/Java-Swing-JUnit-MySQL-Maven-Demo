@@ -1,4 +1,0 @@
-Distributed Architecture,Radius
-Nickel-Chromium Wire,Cooldown Reduction
-Silicon Carbide Coil,Charge Speed
-Unstable Oscillator,Effect Duration

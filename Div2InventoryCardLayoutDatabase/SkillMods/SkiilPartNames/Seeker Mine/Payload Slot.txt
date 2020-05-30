@@ -1,4 +1,0 @@
-Larrea Tridentata Infusion,Healing
-RDX Pellet Payload,Damage
-Russian Doll Protocol,Extra Mines
-Sturdy Piston,Health

@@ -1,8 +1,0 @@
-Chem Launcher,Agitator,Pneumatics Slot
-Drone,Battery Slot,Feed Slot,Hull Slot
-Firefly,Payload Slot,Propulsion Slot
-Hive,Drones Slot,Launcher Slot,System Slot
-Pulse,Coil Slot,Housing Slot
-Seeker Mine,Drive Slot,Payload Slot,Targeting Slot
-Shield,Circuit Board Slot,Gyro Slot
-Turret,Firing Mechanism Slot,Housing Slot,Targeting Slot

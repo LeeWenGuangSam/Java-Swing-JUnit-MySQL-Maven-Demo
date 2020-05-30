@@ -1,4 +1,0 @@
-Blitzkrieg Blasting Powder,Blast Radius
-Electric Soldering Tool,Cooldown Reduction
-Gimbal Vibration Damping,Health
-Graphene Battery,Duration

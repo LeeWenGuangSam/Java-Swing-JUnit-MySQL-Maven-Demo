@@ -1,3 +1,0 @@
-Brushless DC-motor,Health
-Delivery System Upgrade,Extra Mines
-Mini Electric Motor,Cooldown Reduction

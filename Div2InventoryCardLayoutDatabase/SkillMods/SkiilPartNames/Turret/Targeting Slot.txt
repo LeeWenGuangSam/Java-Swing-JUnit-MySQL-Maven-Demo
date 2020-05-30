@@ -1,3 +1,0 @@
-Carbon Fiber Barrel,Health
-Multi-Tool,Cooldown Reduction
-SHD CPU V.2,Damage

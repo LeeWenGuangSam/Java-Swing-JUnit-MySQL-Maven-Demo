@@ -1,6 +1,0 @@
-Backpack
-Chest
-Gloves
-Holster
-Kneepads
-Mask
