@@ -1,0 +1,3 @@
+Weapon Damage
+Headshot Damage
+Optimal Range

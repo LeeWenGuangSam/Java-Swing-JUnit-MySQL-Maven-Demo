@@ -1,0 +1,4 @@
+Additional Ordnance,Extra Bombs
+Gaffer Tape,Duration
+Hollow-point Bullets,Damage
+Micropulse Frequency,Armor Repair

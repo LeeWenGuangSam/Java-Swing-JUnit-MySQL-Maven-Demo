@@ -1,0 +1,75 @@
+Ensnare Duration
+Heal
+Radius
+Ammo
+Ensnare Health
+Damage
+Duration
+Cooldown Reduction
+Ammo
+Duration
+Damage
+Cooldown Reduction
+Heal
+Ensnare Health
+Ensnare Duration
+Radius
+Blast Radius
+Cooldown Reduction
+Health
+Duration
+Extra Bombs
+Duration
+Damage
+Armor Repair
+Cooldown Reduction
+Extra Bombs
+Blast Radius
+Health
+Damage
+Armor Repair
+Cooldown Reduction
+Efficiency
+Max Targets
+Efficiency
+Health
+Speed
+Max Targets
+Cooldown Reduction
+Speed
+Buff Duration
+Stim Efficiency
+Damage
+Duration
+Cooldown Reduction
+Charges
+Damage
+Health
+Cooldown Reduction
+Duration
+Health
+Charges
+Radius
+Cooldown Reduction
+Charge Speed
+Effect Duration
+Effect Duration
+Cooldown Reduction
+Charge Speed
+Radius
+Health
+Extra Mines
+Cooldown Reduction
+Healing
+Damage
+Extra Mines
+Health
+Damage
+Cooldown Reduction
+Healing
+Accuracy Active Regeneration
+Cooldown Reduction
+Damage
+Accuracy
+Holstered Regeneration
+Active Regeneration

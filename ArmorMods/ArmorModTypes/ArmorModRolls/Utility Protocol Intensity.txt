@@ -1,0 +1,10 @@
+Skill Power
+Bleed Damage
+Burn Damage
+Increased Bleed Duration
+Increased Blind Duration
+Increased Burn Duration
+Increased Confuse Duration
+Increased Disrupt Duration
+Increased Ensnare Duration
+Increased Shock Duration

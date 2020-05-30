@@ -1,0 +1,10 @@
+Skill Power
+Chem Launcher Skill Power
+Drone Skill Power
+Extra Outgoing Healing
+Firefly Skill Power
+Hive Skill Power
+Pulse Skill Power
+Seeker Skill Power
+Shield Skill Power
+Turret Skill Power

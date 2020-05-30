@@ -1,0 +1,4 @@
+Dielectric Elastomers,Accuracy
+Liquid Metal Microdroplets,Holstered Regeneration
+Supramolecular Networks,Active Regeneration
+Weaved Aramid Fiber,Health

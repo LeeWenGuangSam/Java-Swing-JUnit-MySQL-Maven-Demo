@@ -1,0 +1,13 @@
+Skill Power
+Headshot Kill XP
+Increased Bleed Duration
+Increased Blind Duration
+Increased Burn Duration
+Increased Confuse Duration
+Increased Disrupt Duration
+Increased Ensnare Duration
+Increased Kill XP
+Increased Poison Duration
+Increased Shock Duration
+Reload Speed
+XP Weakpoint Kills

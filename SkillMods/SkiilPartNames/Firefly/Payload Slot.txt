@@ -1,0 +1,3 @@
+Propantriol Adhesive,Cooldown Reduction
+Tungsten Compound,Efficiency
+Vac Pack,Max Targets

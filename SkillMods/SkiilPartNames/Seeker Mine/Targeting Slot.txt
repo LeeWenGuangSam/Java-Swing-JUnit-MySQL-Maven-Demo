@@ -1,0 +1,3 @@
+Ball Bearings,Damage
+Magnetic Disc,Cooldown Reduction
+Phosphorus Ingredient,Healing

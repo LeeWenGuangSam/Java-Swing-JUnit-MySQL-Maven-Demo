@@ -1,0 +1,3 @@
+Guiding System,Max Targets
+Microfiller Resin,Cooldown Reduction
+RAM Surplus,Speed

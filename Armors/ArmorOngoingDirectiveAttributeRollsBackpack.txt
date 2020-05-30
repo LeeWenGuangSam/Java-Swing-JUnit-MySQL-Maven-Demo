@@ -1,0 +1,8 @@
+Bleed Resistance
+Blind/Deaf Resistance
+Burn Resistance
+Disorient Resistance
+Disrupt Resistance
+Ensnare Resistance
+Poison Resistance
+Shock Resistance

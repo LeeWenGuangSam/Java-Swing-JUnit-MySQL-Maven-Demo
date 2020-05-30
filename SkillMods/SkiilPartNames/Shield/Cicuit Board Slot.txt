@@ -1,0 +1,4 @@
+Magnetostrictive Material,Accuracy
+Smart UHMWPE Lexicon,Active Regeneration
+Synthetic Mineral Frame,Cooldown Reduction
+Thermoresponsive Polymer,Damage

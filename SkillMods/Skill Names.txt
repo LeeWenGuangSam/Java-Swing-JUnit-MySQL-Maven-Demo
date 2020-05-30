@@ -1,0 +1,8 @@
+Chem Launcher
+Drone
+Firefly
+Hive
+Pulse
+Seeker Mine
+Shield
+Turret
