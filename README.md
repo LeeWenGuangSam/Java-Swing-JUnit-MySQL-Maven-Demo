@@ -3,9 +3,7 @@ Created with Java Swing, Hibernate, MySQL and Maven.
 
 The main file in the program, [MainApp.java](https://github.com/LeeWenGuangSam/JavaSwingMySQLDemo/blob/DatabaseBranch/src/pc/predi/MainApp.java), is the main of the program and meant to start the Swing program.
 
-Currently only works with the Weapon Selection only.
-
-Currently able to use the confirm button and send the information to the MySQL database.
+Currently only works with the Weapon Selection only and able to use the confirm button and send the information to the MySQL database.
 
 The [pom.xml](https://github.com/LeeWenGuangSam/JavaSwingMySQLDemo/blob/DatabaseBranch/pom.xml) defines the of dependencies of the program.
 
