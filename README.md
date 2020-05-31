@@ -1,5 +1,5 @@
 # JavaSwingMySQLDemo
-Created with Java Swing, Hibernate, MySQL and Maven.
+Created with Java Swing, [Hibernate](https://en.wikipedia.org/wiki/Hibernate_%28framework%29), [MySQL](https://en.wikipedia.org/wiki/MySQL) and [Maven](https://en.wikipedia.org/wiki/Maven).
 
 The main file in the program, [MainApp.java](https://github.com/LeeWenGuangSam/JavaSwingMySQLDemo/blob/DatabaseBranch/src/pc/predi/MainApp.java), is the main of the program and meant to start the Swing program.
 
