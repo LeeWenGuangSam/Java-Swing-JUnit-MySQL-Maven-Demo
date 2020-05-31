@@ -7,7 +7,7 @@ Currently only works with the Weapon Selection only and able to use the confirm 
 
 The [pom.xml](https://github.com/LeeWenGuangSam/JavaSwingMySQLDemo/blob/DatabaseBranch/pom.xml) defines the of dependencies of the program.
 
-This file in the package pc.predi.Div2InventoryCardLayoutDatabase.Tests shows how to validate a insert statement with JUnit and [Regex](https://en.wikipedia.org/wiki/Regular_expression).  
+The package [pc.predi.Div2InventoryCardLayoutDatabase.Tests](https://github.com/LeeWenGuangSam/JavaSwingMySQLDemo/tree/DatabaseBranch/src/pc/predi/Div2InventoryCardLayoutDatabase/Tests) shows how to validate a insert statement with JUnit and [Regex](https://en.wikipedia.org/wiki/Regular_expression).  
 This example validates a set of insert statements into a database.
 
 [JUnit Test Demo](https://github.com/LeeWenGuangSam/JavaSwingMySQLDemo/blob/DatabaseBranch/src/pc/predi/Div2InventoryCardLayoutDatabase/Tests/CreateScriptsTest.java)
